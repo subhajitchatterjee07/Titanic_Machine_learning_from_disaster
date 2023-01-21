@@ -11,4 +11,4 @@ The target is to build a predictive model that answers the question: “what sor
 
 ## NOTE : 
 - In this project I have used feature engineering to convert categorisation data to trainable values.
-- Also the algorithm used for the Logistic Regression is lbfgs which stands for: "Limited-memory Broyden–Fletcher–Goldfarb–Shanno Algorithm".  As such, it can deal with a wide range of different training data and is therefore the default solver. Its performance, however, suffers on poorly scaled datasets.So we have increased the max iterations to a 1000
+- Also the algorithm used for the Logistic Regression is lbfgs which stands for: "Limited-memory Broyden–Fletcher–Goldfarb–Shanno Algorithm".  As such, it can deal with a wide range of different training data and is therefore the default solver. Its performance, however, suffers on poorly scaled datasets.So we have increased the max iterations to a 1000.
